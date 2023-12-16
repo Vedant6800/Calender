@@ -56,8 +56,7 @@ public class Main
                     break;
             }
         //   System.out.printf("enter Start day of year");
-        //   startDayofYear = s.nextInt();
-         
+        //   startDayofYear = s.nextInt();         
           int dayCounter = startDayofYear;
           int nbrOfDays = 0;
           String monthName = "";
